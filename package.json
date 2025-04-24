@@ -1,0 +1,19 @@
+{
+  "name": "flat-graff",
+  "version": "1.0.0",
+  "description": "Helper tool for generating optimised procedural graphics in javascript. NOTE: This is not intended as a procedural graphic generator, instead it CREATES THE OPTIMISED CODE for generating the procedural graphics.",
+  "homepage": "https://github.com/glizzy-g/FlatGraff#readme",
+  "bugs": {
+    "url": "https://github.com/glizzy-g/FlatGraff/issues"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/glizzy-g/FlatGraff.git"
+  },
+  "license": "GPL-3.0-only",
+  "author": "glizzy-g",
+  "type": "commonjs",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  }
+}
